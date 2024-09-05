@@ -51,8 +51,6 @@ Evaluate the model with the testing data.
 ### Name: Ritika S
 ### Register Number: 212221240046
 ```
-
-
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
@@ -91,9 +89,6 @@ ai_brain.evaluate(X_test1,y_test)
 X_n1 = [[10]]
 X_n1_1 = Scaler.transform(X_n1)
 ai_brain.predict(X_n1_1)
-
-
-
 ```
 ## Dataset Information
 
