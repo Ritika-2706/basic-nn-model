@@ -104,12 +104,12 @@ ai_brain.predict(X_n1_1)
 
 ### Test Data Root Mean Squared Error
 
-![p2](https://github.com/user-attachments/assets/23b71f66-6b55-42b4-84d7-5c335b226f8d)
-
+![img1](https://github.com/user-attachments/assets/b02b876c-ba66-4dfd-a1fb-e1664f9bd723)
 
 ### New Sample Data Prediction
+![img2](https://github.com/user-attachments/assets/48b64345-58bb-4581-b040-e09ba1b49541)
 
-![p4](https://github.com/user-attachments/assets/2c5d6e61-84eb-47d5-b0de-57ddbd15dc45)
+
 
 
 ## RESULT
